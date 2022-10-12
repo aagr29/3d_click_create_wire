@@ -1,6 +1,6 @@
 to start:
-git clone https://github.com/cognitive-earth/Threejs-app.git
-cd Threejs-app
+git clone https://github.com/aagr29/3d_click_create_wire.git
+cd 3d_click_create_wire
 npm start
 Visit http://127.0.0.1:3000
 
